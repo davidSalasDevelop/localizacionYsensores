@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aeropuerto</string>
+    <string name="action_settings">Settings</string>
+    <string name="mi_ubicacion">Mi ubicación</string>
+    <string name="consultar_temperatura">Consultar temperatura</string>
+    <string name="temperatura_actual">Temperatura actual</string>
+    <string name="aceptar">Aceptar</string>
+</resources>

@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="co.ortizol.AeropuertoActivity">
+    <item
+        android:id="@+id/mitConsultarTemperatura"
+        android:orderInCategory="100"
+        android:title="@string/consultar_temperatura"
+        app:showAsAction="never" />
+</menu>
